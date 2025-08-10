@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on **Agentic AI Systems**
 - 🌱 I’m currently learning **Spring**, **TypeScript!**
-- 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at [arsn.vercel.app](https://arsn.vercel.app)
 - 💬 Ask me about **Artificial Intelligence** and **Data Science**
 - 📫 How to reach me: **sreen02@Outlook.com**
