@@ -1,7 +1,7 @@
 # Raghu Sree Nandan
 
 **AI Engineer · Full Stack Developer · Hyderabad, IN**  
-[arsn.vercel.app](https://arsn.vercel.app) · [LinkedIn](https://linkedin.com/in/anarajula-rsn) · [LeetCode](https://leetcode.com/kl2200031212) · sreen02@outlook.com
+[LinkedIn](https://linkedin.com/in/anarajula-rsn) · [LeetCode](https://leetcode.com/kl2200031212) · sreen02@outlook.com
 
 ---
 
