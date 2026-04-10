@@ -5,7 +5,7 @@
 
 ---
 
-Building at the intersection of agentic AI and full-stack engineering. Currently deep in autonomous AI systems while picking up Spring and TypeScript along the way.
+Building at the intersection of agentic AI and full-stack engineering. Currently deep in autonomous AI systems while picking up Data Engineering , and cloud ops 
 
 ---
 
